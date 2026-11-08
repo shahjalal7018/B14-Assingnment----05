@@ -1,4 +1,4 @@
-import React from "react";
+
 import Logo from "../assets/banner-stack.png"
 export default function Hero() {
   return (
